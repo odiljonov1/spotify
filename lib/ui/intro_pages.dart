@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_spotify/ui/home_pages.dart';
+import 'package:spotify/ui/home_pages.dart';
 
 class IntroPages extends StatefulWidget {
   const IntroPages({Key? key}) : super(key: key);

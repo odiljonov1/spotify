@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_spotify/ui/login_pages.dart';
 
 import '../widgets/curve_email.dart';
 import '../widgets/curve_facebook.dart';
